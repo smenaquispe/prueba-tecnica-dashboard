@@ -53,3 +53,10 @@ Antes de comenzar, asegúrate de tener instalado:
 
    La aplicación estará disponible en `http://127.0.0.1:5000/` (puedes abrirlo en tu navegador).
 
+## Vistas de la aplicación
+
+![image](https://github.com/user-attachments/assets/2db41086-d26a-40ac-815f-757d181dc670)
+![image](https://github.com/user-attachments/assets/7a473b61-cbe8-434e-a563-a2a6ff87d0de)
+![image](https://github.com/user-attachments/assets/479b8c49-8ac7-48dd-b2d4-ccd962914ff6)
+
+
