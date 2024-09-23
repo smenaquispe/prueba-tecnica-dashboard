@@ -1,10 +1,12 @@
 from flask import Flask, render_template
-from db import session
+from db import init_db
 from models import Empleado
 import plotly.graph_objs as go
 import plotly.io as pio
 
 app = Flask(__name__)
+
+session = init_db()
 
 @app.route('/')
 def dashboard():
